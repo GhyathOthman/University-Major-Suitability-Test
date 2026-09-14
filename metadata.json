@@ -1,0 +1,6 @@
+{
+  "name": "اختبار ملاءمة هندسة الاتصالات والإلكترونيات",
+  "description": "اختبار تواؤم تفاعلي لطلاب البكالوريا لاكتشاف شغفهم بهندسة الاتصالات والإلكترونيات - معرض وجهتك الأكاديمية 2 بجامعة دمشق",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
